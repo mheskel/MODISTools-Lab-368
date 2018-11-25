@@ -5,7 +5,7 @@ The materials here (R script and lab description handout for students) are inten
 
 In this lab exercise, students use the MODISTools package developed by Koen Hufkens @khufkens (https://github.com/khufkens/MODISTools) to download MODIS NDVI and EVI at specific sites of interest and plot how they vary through time. 
 
-Part I of the lab follows steps outlined here: https://github.com/khufkens/MODISTools, and has students plot NDVI and EVI in base R and ggplots. An earlier lab had students play around with ggplot2, so this should be an extention of those skills. 
+Part I of the lab generally follows steps outlined here: https://github.com/khufkens/MODISTools and written in detail in the R script provided here. Part I guides students through downloading and plotting NDVI and EVI in base R and ggplots. An earlier lab had students play around with ggplot2, so this should be an extention of those skills. 
 
 Part II challenges students to develop an 'experiment' wherein they compare a minimum of 2 sites (or time periods) in terms of their NDVI and EVI.
   
