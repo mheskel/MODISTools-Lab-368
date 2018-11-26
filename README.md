@@ -13,8 +13,6 @@ Part II challenges students to develop an 'experiment' wherein they compare a mi
   
   Students develop hypotheses and make predictions of expected outcomes prior to downloading the data and plotting NDVI and EVI from their sites. 
   
-  Included here are: 
-  RScript for Parts I and II of the lab
-  PDF of the lab description and expectations for write up by students
+  Included here are: (1) RScript for Parts I and II of the lab and (2) a PDF of the lab description and expectations for write up by students
   
   Lab period is 3 hrs; students can work in teams if they prefer (each running code on their own computer); write up can occur while going through the lab. Ideally, they will complete the questions in class, and be done within 2.5-3 hrs. 
